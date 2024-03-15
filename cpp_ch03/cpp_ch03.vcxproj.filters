@@ -48,9 +48,27 @@
     <ClCompile Include="10_Caculator.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="11_Box.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11_main.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="12_main.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="12_Ram.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="header_12.h">
+      <Filter>헤더 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header_10.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="header_11.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
