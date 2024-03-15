@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\alstj\\Desktop\\clone_C\u002B\u002Bprogramming\\exercise_cpp_programming\\cpp_ch03\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9F535B7B-F46E-46F3-B2CC-867E251D0CF6}|cpp_ch03.vcxproj|C:\\Users\\alstj\\Desktop\\clone_C\u002B\u002Bprogramming\\exercise_cpp_programming\\cpp_ch03\\ch03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9F535B7B-F46E-46F3-B2CC-867E251D0CF6}|cpp_ch03.vcxproj|solutionrelative:ch03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{9F535B7B-F46E-46F3-B2CC-867E251D0CF6}|cpp_ch03.vcxproj|C:\\Users\\alstj\\Desktop\\clone_C\u002B\u002Bprogramming\\exercise_cpp_programming\\cpp_ch03\\05.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9F535B7B-F46E-46F3-B2CC-867E251D0CF6}|cpp_ch03.vcxproj|solutionrelative:05.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F535B7B-F46E-46F3-B2CC-867E251D0CF6}|cpp_ch03.vcxproj|C:\\Users\\alstj\\Desktop\\clone_C\u002B\u002Bprogramming\\exercise_cpp_programming\\cpp_ch03\\04.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9F535B7B-F46E-46F3-B2CC-867E251D0CF6}|cpp_ch03.vcxproj|solutionrelative:04.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F535B7B-F46E-46F3-B2CC-867E251D0CF6}|cpp_ch03.vcxproj|C:\\Users\\alstj\\Desktop\\clone_C\u002B\u002Bprogramming\\exercise_cpp_programming\\cpp_ch03\\03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9F535B7B-F46E-46F3-B2CC-867E251D0CF6}|cpp_ch03.vcxproj|solutionrelative:03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F535B7B-F46E-46F3-B2CC-867E251D0CF6}|cpp_ch03.vcxproj|C:\\Users\\alstj\\Desktop\\clone_C\u002B\u002Bprogramming\\exercise_cpp_programming\\cpp_ch03\\02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9F535B7B-F46E-46F3-B2CC-867E251D0CF6}|cpp_ch03.vcxproj|solutionrelative:02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F535B7B-F46E-46F3-B2CC-867E251D0CF6}|cpp_ch03.vcxproj|C:\\Users\\alstj\\Desktop\\clone_C\u002B\u002Bprogramming\\exercise_cpp_programming\\cpp_ch03\\01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9F535B7B-F46E-46F3-B2CC-867E251D0CF6}|cpp_ch03.vcxproj|solutionrelative:01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,15 +39,64 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ch03.cpp",
-              "DocumentMoniker": "C:\\Users\\alstj\\Desktop\\clone_C\u002B\u002Bprogramming\\exercise_cpp_programming\\cpp_ch03\\ch03.cpp",
-              "RelativeDocumentMoniker": "ch03.cpp",
-              "ToolTip": "C:\\Users\\alstj\\Desktop\\clone_C\u002B\u002Bprogramming\\exercise_cpp_programming\\cpp_ch03\\ch03.cpp",
-              "RelativeToolTip": "ch03.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Title": "05.cpp",
+              "DocumentMoniker": "C:\\Users\\alstj\\Desktop\\clone_C\u002B\u002Bprogramming\\exercise_cpp_programming\\cpp_ch03\\05.cpp",
+              "RelativeDocumentMoniker": "05.cpp",
+              "ToolTip": "C:\\Users\\alstj\\Desktop\\clone_C\u002B\u002Bprogramming\\exercise_cpp_programming\\cpp_ch03\\05.cpp",
+              "RelativeToolTip": "05.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-15T04:32:13.255Z",
+              "WhenOpened": "2024-03-15T05:55:24.118Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "04.cpp",
+              "DocumentMoniker": "C:\\Users\\alstj\\Desktop\\clone_C\u002B\u002Bprogramming\\exercise_cpp_programming\\cpp_ch03\\04.cpp",
+              "RelativeDocumentMoniker": "04.cpp",
+              "ToolTip": "C:\\Users\\alstj\\Desktop\\clone_C\u002B\u002Bprogramming\\exercise_cpp_programming\\cpp_ch03\\04.cpp",
+              "RelativeToolTip": "04.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-15T05:29:13.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "03.cpp",
+              "DocumentMoniker": "C:\\Users\\alstj\\Desktop\\clone_C\u002B\u002Bprogramming\\exercise_cpp_programming\\cpp_ch03\\03.cpp",
+              "RelativeDocumentMoniker": "03.cpp",
+              "ToolTip": "C:\\Users\\alstj\\Desktop\\clone_C\u002B\u002Bprogramming\\exercise_cpp_programming\\cpp_ch03\\03.cpp",
+              "RelativeToolTip": "03.cpp",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAgwBkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-15T05:19:46.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "02.cpp",
+              "DocumentMoniker": "C:\\Users\\alstj\\Desktop\\clone_C\u002B\u002Bprogramming\\exercise_cpp_programming\\cpp_ch03\\02.cpp",
+              "RelativeDocumentMoniker": "02.cpp",
+              "ToolTip": "C:\\Users\\alstj\\Desktop\\clone_C\u002B\u002Bprogramming\\exercise_cpp_programming\\cpp_ch03\\02.cpp",
+              "RelativeToolTip": "02.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-15T04:41:50.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "01.cpp",
+              "DocumentMoniker": "C:\\Users\\alstj\\Desktop\\clone_C\u002B\u002Bprogramming\\exercise_cpp_programming\\cpp_ch03\\01.cpp",
+              "RelativeDocumentMoniker": "01.cpp",
+              "ToolTip": "C:\\Users\\alstj\\Desktop\\clone_C\u002B\u002Bprogramming\\exercise_cpp_programming\\cpp_ch03\\01.cpp",
+              "RelativeToolTip": "01.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-15T04:32:13.255Z"
             }
           ]
         }
