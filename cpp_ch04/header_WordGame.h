@@ -4,21 +4,22 @@
 #include <iostream>
 using namespace std;
 
-// WordGame 클래스
-class WordGame {
-public:
-	WordGame();
-	bool game();
-};
-
-// Player 클래스
 class Player {
 	string name;
 public:
-	Player();
-	Player(string name);
-	void setPlayerName();
-	void showPlayerName();
+	Player() {};
+	void setName(string name) { this->name = name; }
+	string getName() { return this->name; }
 };
 
-#endif // !HEADER_WORDGAME
+class WordGame {
+	Player* p;
+	int size;
+	int winner = 0; // 승자가 있음(1), 승자가 없음(0)
+public:
+	WordGame();
+	~WordGame();
+	void run();
+};
+
+#endif

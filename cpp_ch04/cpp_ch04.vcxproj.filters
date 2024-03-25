@@ -27,9 +27,6 @@
     <ClCompile Include="header_WordGame.h">
       <Filter>헤더 파일</Filter>
     </ClCompile>
-    <ClCompile Include="OpenChanllenge_Player.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="02.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
