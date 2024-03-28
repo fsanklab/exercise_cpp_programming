@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\alstj\\Desktop\\clone_C\u002B\u002Bprogramming\\exercise_cpp_programming\\cpp_ch05\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1741510B-33FB-4C6C-B131-0A9EECD3ECD7}|cpp_ch05.vcxproj|C:\\Users\\alstj\\Desktop\\clone_C\u002B\u002Bprogramming\\exercise_cpp_programming\\cpp_ch05\\OpenChallenge.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1741510B-33FB-4C6C-B131-0A9EECD3ECD7}|cpp_ch05.vcxproj|solutionrelative:OpenChallenge.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1741510B-33FB-4C6C-B131-0A9EECD3ECD7}|cpp_ch05.vcxproj|C:\\Users\\alstj\\Desktop\\clone_C\u002B\u002Bprogramming\\exercise_cpp_programming\\cpp_ch05\\03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1741510B-33FB-4C6C-B131-0A9EECD3ECD7}|cpp_ch05.vcxproj|solutionrelative:03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1741510B-33FB-4C6C-B131-0A9EECD3ECD7}|cpp_ch05.vcxproj|C:\\Users\\alstj\\Desktop\\clone_C\u002B\u002Bprogramming\\exercise_cpp_programming\\cpp_ch05\\11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1741510B-33FB-4C6C-B131-0A9EECD3ECD7}|cpp_ch05.vcxproj|solutionrelative:11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -43,10 +51,6 @@
       "RelativeMoniker": "D:0:0:{1741510B-33FB-4C6C-B131-0A9EECD3ECD7}|cpp_ch05.vcxproj|solutionrelative:04.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1741510B-33FB-4C6C-B131-0A9EECD3ECD7}|cpp_ch05.vcxproj|C:\\Users\\alstj\\Desktop\\clone_C\u002B\u002Bprogramming\\exercise_cpp_programming\\cpp_ch05\\03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1741510B-33FB-4C6C-B131-0A9EECD3ECD7}|cpp_ch05.vcxproj|solutionrelative:03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1741510B-33FB-4C6C-B131-0A9EECD3ECD7}|cpp_ch05.vcxproj|C:\\Users\\alstj\\Desktop\\clone_C\u002B\u002Bprogramming\\exercise_cpp_programming\\cpp_ch05\\02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1741510B-33FB-4C6C-B131-0A9EECD3ECD7}|cpp_ch05.vcxproj|solutionrelative:02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -58,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 214,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,19 +70,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "04.cpp",
-              "DocumentMoniker": "C:\\Users\\alstj\\Desktop\\clone_C\u002B\u002Bprogramming\\exercise_cpp_programming\\cpp_ch05\\04.cpp",
-              "RelativeDocumentMoniker": "04.cpp",
-              "ToolTip": "C:\\Users\\alstj\\Desktop\\clone_C\u002B\u002Bprogramming\\exercise_cpp_programming\\cpp_ch05\\04.cpp",
-              "RelativeToolTip": "04.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "OpenChallenge.cpp",
+              "DocumentMoniker": "C:\\Users\\alstj\\Desktop\\clone_C\u002B\u002Bprogramming\\exercise_cpp_programming\\cpp_ch05\\OpenChallenge.cpp",
+              "RelativeDocumentMoniker": "OpenChallenge.cpp",
+              "ToolTip": "C:\\Users\\alstj\\Desktop\\clone_C\u002B\u002Bprogramming\\exercise_cpp_programming\\cpp_ch05\\OpenChallenge.cpp",
+              "RelativeToolTip": "OpenChallenge.cpp",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAIwF4AAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-27T07:25:12.584Z"
+              "WhenOpened": "2024-03-28T06:50:06.16Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "05.cpp",
               "DocumentMoniker": "C:\\Users\\alstj\\Desktop\\clone_C\u002B\u002Bprogramming\\exercise_cpp_programming\\cpp_ch05\\05.cpp",
               "RelativeDocumentMoniker": "05.cpp",
@@ -90,7 +95,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "01.cpp",
               "DocumentMoniker": "C:\\Users\\alstj\\Desktop\\clone_C\u002B\u002Bprogramming\\exercise_cpp_programming\\cpp_ch05\\01.cpp",
               "RelativeDocumentMoniker": "01.cpp",
@@ -102,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "06.cpp",
               "DocumentMoniker": "C:\\Users\\alstj\\Desktop\\clone_C\u002B\u002Bprogramming\\exercise_cpp_programming\\cpp_ch05\\06.cpp",
               "RelativeDocumentMoniker": "06.cpp",
@@ -110,11 +115,12 @@
               "RelativeToolTip": "06.cpp",
               "ViewState": "AQIAAAsAAAAAAAAAAAAowBwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-27T07:25:23.68Z"
+              "WhenOpened": "2024-03-27T07:25:23.68Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "07.cpp",
               "DocumentMoniker": "C:\\Users\\alstj\\Desktop\\clone_C\u002B\u002Bprogramming\\exercise_cpp_programming\\cpp_ch05\\07.cpp",
               "RelativeDocumentMoniker": "07.cpp",
@@ -126,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "08.cpp",
               "DocumentMoniker": "C:\\Users\\alstj\\Desktop\\clone_C\u002B\u002Bprogramming\\exercise_cpp_programming\\cpp_ch05\\08.cpp",
               "RelativeDocumentMoniker": "08.cpp",
@@ -138,20 +144,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "11.cpp",
               "DocumentMoniker": "C:\\Users\\alstj\\Desktop\\clone_C\u002B\u002Bprogramming\\exercise_cpp_programming\\cpp_ch05\\11.cpp",
               "RelativeDocumentMoniker": "11.cpp",
               "ToolTip": "C:\\Users\\alstj\\Desktop\\clone_C\u002B\u002Bprogramming\\exercise_cpp_programming\\cpp_ch05\\11.cpp",
               "RelativeToolTip": "11.cpp",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAIwBYAAAAjAAAA",
+              "ViewState": "AQIAABwAAAAAAAAAAAAkwCoAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-03-27T07:25:40.484Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "03.cpp",
+              "DocumentMoniker": "C:\\Users\\alstj\\Desktop\\clone_C\u002B\u002Bprogramming\\exercise_cpp_programming\\cpp_ch05\\03.cpp",
+              "RelativeDocumentMoniker": "03.cpp",
+              "ToolTip": "C:\\Users\\alstj\\Desktop\\clone_C\u002B\u002Bprogramming\\exercise_cpp_programming\\cpp_ch05\\03.cpp",
+              "RelativeToolTip": "03.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-27T07:25:07.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "04.cpp",
+              "DocumentMoniker": "C:\\Users\\alstj\\Desktop\\clone_C\u002B\u002Bprogramming\\exercise_cpp_programming\\cpp_ch05\\04.cpp",
+              "RelativeDocumentMoniker": "04.cpp",
+              "ToolTip": "C:\\Users\\alstj\\Desktop\\clone_C\u002B\u002Bprogramming\\exercise_cpp_programming\\cpp_ch05\\04.cpp",
+              "RelativeToolTip": "04.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-27T07:25:12.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "09.cpp",
               "DocumentMoniker": "C:\\Users\\alstj\\Desktop\\clone_C\u002B\u002Bprogramming\\exercise_cpp_programming\\cpp_ch05\\09.cpp",
               "RelativeDocumentMoniker": "09.cpp",
@@ -163,7 +194,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "12.cpp",
               "DocumentMoniker": "C:\\Users\\alstj\\Desktop\\clone_C\u002B\u002Bprogramming\\exercise_cpp_programming\\cpp_ch05\\12.cpp",
               "RelativeDocumentMoniker": "12.cpp",
@@ -171,24 +202,11 @@
               "RelativeToolTip": "12.cpp",
               "ViewState": "AQIAAAsAAAAAAAAAAAAIwCQAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-27T07:25:55.187Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-27T07:25:55.187Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "03.cpp",
-              "DocumentMoniker": "C:\\Users\\alstj\\Desktop\\clone_C\u002B\u002Bprogramming\\exercise_cpp_programming\\cpp_ch05\\03.cpp",
-              "RelativeDocumentMoniker": "03.cpp",
-              "ToolTip": "C:\\Users\\alstj\\Desktop\\clone_C\u002B\u002Bprogramming\\exercise_cpp_programming\\cpp_ch05\\03.cpp",
-              "RelativeToolTip": "03.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-27T07:25:07.881Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "10.cpp",
               "DocumentMoniker": "C:\\Users\\alstj\\Desktop\\clone_C\u002B\u002Bprogramming\\exercise_cpp_programming\\cpp_ch05\\10.cpp",
               "RelativeDocumentMoniker": "10.cpp",
@@ -200,7 +218,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "02.cpp",
               "DocumentMoniker": "C:\\Users\\alstj\\Desktop\\clone_C\u002B\u002Bprogramming\\exercise_cpp_programming\\cpp_ch05\\02.cpp",
               "RelativeDocumentMoniker": "02.cpp",
