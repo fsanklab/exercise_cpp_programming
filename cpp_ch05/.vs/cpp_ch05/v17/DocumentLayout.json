@@ -61,7 +61,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 214,
+          "DockedWidth": 203,
           "SelectedChildIndex": 1,
           "Children": [
             {
@@ -76,7 +76,7 @@
               "RelativeDocumentMoniker": "OpenChallenge.cpp",
               "ToolTip": "C:\\Users\\alstj\\Desktop\\clone_C\u002B\u002Bprogramming\\exercise_cpp_programming\\cpp_ch05\\OpenChallenge.cpp",
               "RelativeToolTip": "OpenChallenge.cpp",
-              "ViewState": "AQIAAEsAAAAAAAAAAAAIwF4AAAAUAAAA",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAkwF4AAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-03-28T06:50:06.16Z",
               "EditorCaption": ""
@@ -115,8 +115,7 @@
               "RelativeToolTip": "06.cpp",
               "ViewState": "AQIAAAsAAAAAAAAAAAAowBwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-27T07:25:23.68Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-27T07:25:23.68Z"
             },
             {
               "$type": "Document",
@@ -152,8 +151,7 @@
               "RelativeToolTip": "11.cpp",
               "ViewState": "AQIAABwAAAAAAAAAAAAkwCoAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-27T07:25:40.484Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-27T07:25:40.484Z"
             },
             {
               "$type": "Document",
@@ -165,8 +163,7 @@
               "RelativeToolTip": "03.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-27T07:25:07.881Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-27T07:25:07.881Z"
             },
             {
               "$type": "Document",
