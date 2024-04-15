@@ -14,14 +14,18 @@ int* ArrayUtility2::concat(int s1[], int s2[], int size) {
 }
 int* ArrayUtility2::remove(int s1[], int s2[], int size, int& retSize) {
 	int* newArray2 = new int[size];
-	// 1. 새로운 동적배열에 s1[]을 복사
-	for (int i = 0; i < size; i++) newArray2[i] = s1[i];
-	// 2. s1[]에 s2[]의 원소가 있다면 삭제
+	int flag = 1, index = 0;
 	for (int i = 0; i < size; i++) {
-		for (int j = 0; j < size; j++)
-			if (newArray2[i] == s2[j])
-				
+		// s1[]의 원소가 s2[]에 없는거라면 저장
+		for (int j=0;j<size;j++)
+			if (s1[i] == s2[j]) {
+				flag = 0; break;
+			}
+		if (flag)
+			newArray2[index++] = s1[i];
 	}
+	retSize = index;
+	return newArray2;
 }
 
 int main() {
